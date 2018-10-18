@@ -9,7 +9,7 @@
 
 ##### Selecione a combobox "Add the following command when call the compiler:"
 
-##### Digite na TextArea o seguinte comando:
+##### Digite nas duas TextArea o seguinte comando (deixei somente esse comando nas duas TextArea):
 <b>-std=c++11 </b>
 
 ##### Isto habilita o DevCPP a compilar o código no padrão C++11 ( necessário neste experimento)
